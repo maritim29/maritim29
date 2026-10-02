@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Japhet 👋
 
-<!--
-**maritim29/maritim29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical writer and developer based in Nairobi, Kenya. I turn confusing code and docs into clear, usable writing.
 
-Here are some ideas to get you started:
+## What I offer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Technical articles & tutorials:** engineering topics explained step by step
+- **README & documentation cleanup:** clearer setup guides, usage examples, and structure for your project
+- **Docs contributions:** I fix unclear or outdated docs in open-source projects
+
+## Featured work
+
+- [writing-samples](https://github.com/maritim29/writing-samples): technical articles in Markdown
+- [docs-examples](https://github.com/maritim29/docs-examples): before/after README rewrites
+  
+## Skills
+
+Technical writing · Markdown · Git & GitHub · Research · Computer Science · English & Swahili
+
+## Work with me
+
+📧 kipchirchirjaphet422@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/japhet-kipchirchir-297411397)
+
+Open to freelance writing gigs and docs bounties.
