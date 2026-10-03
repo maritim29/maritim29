@@ -12,6 +12,7 @@ Technical writer and developer based in Nairobi, Kenya. I turn confusing code an
 
 - [writing-samples](https://github.com/maritim29/writing-samples): technical articles in Markdown
 - [docs-examples](https://github.com/maritim29/docs-examples): before/after README rewrites
+- [spectrayan/carefold #75](https://github.com/spectrayan/carefold/pull/75): documented web app environment variables (merged, approved by maintainers)
   
 ## Skills
 
