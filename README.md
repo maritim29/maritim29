@@ -13,6 +13,7 @@ Technical writer and developer based in Nairobi, Kenya. I turn confusing code an
 - [writing-samples](https://github.com/maritim29/writing-samples): technical articles in Markdown
 - [docs-examples](https://github.com/maritim29/docs-examples): before/after README rewrites
 - [spectrayan/carefold #75](https://github.com/spectrayan/carefold/pull/75): documented web app environment variables (merged, approved by maintainers)
+- [circuit-mini-homelab](https://github.com/conn3xorg/circuit-mini-homelab/pull/6): rewrote the README introduction (merged, PR #6)
   
 ## Skills
 
