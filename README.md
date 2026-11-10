@@ -19,6 +19,7 @@ Technical writer and developer based in Nairobi, Kenya. I turn confusing code an
 
 ![White Belt @maritim29](https://img.shields.io/static/v1?label=FLISK%20WHITE%20BELT&message=8-7%20kyu%20%E2%80%A2%20%40maritim29&color=e5e7eb&labelColor=07080f&style=for-the-badge)
 
+![Founding Contributor #4 @maritim29](https://img.shields.io/static/v1?label=%E2%9A%A1%20FOUNDING%20CONTRIBUTOR&message=%234%20of%20100%20%E2%80%A2%20%40maritim29&color=06b6d4&labelColor=07080f&style=for-the-badge)
 Technical writing · Markdown · Git & GitHub · Research · Computer Science · English & Swahili
 
 ## Work with me
